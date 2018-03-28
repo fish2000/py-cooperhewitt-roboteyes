@@ -20,7 +20,7 @@ setup(
           'https://github.com/cooperhewitt/py-cooperhewitt-roboteyes-opencv/tarball/master#egg=cooperhewitt.roboteyes.opencv-0.21',
           'https://github.com/cooperhewitt/py-cooperhewitt-roboteyes-shannon/tarball/master#egg=cooperhewitt.roboteyes.shannon-0.1',
       ],
-    packages=[]
+    packages=[],
     scripts=[],
     download_url='https://github.com/cooperhewitt/py-cooperhewitt-roboteyes/releases/tag/v0.11',
     license='BSD')
